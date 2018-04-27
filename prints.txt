@@ -1,0 +1,29 @@
+
+
+
+
+
+
+-----------------------------------      
+AUTOMATED FETCH FOR OUD AUDIT FILES
+-----------------------------------
+
+step1 : install paramiko python library : `pip install paramiko` (no need for special permisions)
+
+step2 : fetch OUD audit files from the given instructions on fetchOUD.conf : `python fetchOUD.py`
+
+
+BE SURE THAT THE CONFIG FILES CONTAIN THE RIGHT
+IPs , USR NAMES , PASSWRDS and PATHS!!!
+
+to terminate : ctrl+c
+
+
+
+
+FOR INSTRUCTIONS OR MORE INFORMATION : ./README.docx
+
+
+
+
+author : Tasos Adamopoulous - adamopanast@gmail.com
