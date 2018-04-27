@@ -1,4 +1,4 @@
-OUD Audit files automation script
+ORACLE UNIFIED DIRECTORY Audit files retrieval automation script
 README file
 Execution Instructions:
 
